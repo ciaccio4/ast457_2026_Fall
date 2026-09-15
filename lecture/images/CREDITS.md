@@ -367,3 +367,33 @@ the verified URL is the tarball and the filename inside it is named below.
 - **Source:** Stanford University, "Stanford Professor Andrei Linde celebrates physics breakthrough", March 2014, https://www.youtube.com/watch?v=ZlfIVEy_YOA (downloaded 2026-09-07 for offline classroom playback only).
 - **Credit:** Stanford University / Chao-Lin Kuo, Andrei Linde, Renata Kallosh.
 - **License / basis:** Stanford copyright; classroom playback under fair use, not redistributed. The slide links to the YouTube original for students.
+
+# Added for Lecture 07 (Day 7: MLE fitting, period-luminosity relation), downloaded 2026-09-14
+
+## leavitt_1912_pl_plot.jpg
+- **Title:** "Periods of 25 Variable Stars in the Small Magellanic Cloud" (Fig. 2), Harvard College Observatory Circular no. 173 (1912) (725×767)
+- **Source page:** https://commons.wikimedia.org/wiki/File:HSLeavittHSCr13Fig2_1912.jpg
+- **File downloaded:** https://upload.wikimedia.org/wikipedia/commons/9/97/HSLeavittHSCr13Fig2_1912.jpg
+- **Credit:** Leavitt, Henrietta S.; Pickering, Edward C. — Harvard College Observatory Circular, vol. 173 (1912)
+- **License:** Public domain (published before 1931; PD-US and PD-old tags on the Commons file page), verified on the file page, not inferred from a thumbnail
+
+## cepheid_instability_strip.png
+- **Title:** Hertzsprung–Russell diagram with the classical instability strip added, labelled with Cepheids and RR Lyrae variables crossing it (rendered from source SVG at 1600 px wide; original 1600×1829)
+- **Source page:** https://commons.wikimedia.org/wiki/File:HR-diag-instability-strip.svg
+- **File downloaded:** https://upload.wikimedia.org/wikipedia/commons/c/c7/HR-diag-instability-strip.svg (rendered to PNG locally with `rsvg-convert -w 1600`)
+- **Credit:** Rursus, via Wikimedia Commons (own work)
+- **License:** CC BY-SA 3.0 (dual-licensed with GFDL 1.2+), verified on the file page license table
+- **Note:** attribution and share-alike apply to any derivative built from this figure; a "Cepheids" label is present in the source SVG, confirmed by grepping the raw file, not by visual inference
+
+## harvard_computers_pickering.jpg
+- **Title:** "Edward Pickering and the Harvard 'Computers'" - group photo of women astronomical computers at Harvard College Observatory, circa 1891
+- **Source:** extracted directly from GN's own prior talk deck, `~/Dropbox/work/Presentations/GenSci/Narayan_KalerLecture_StaerkelPlanetarium.pdf`, p.10 (GN already holds citation/permission for this image; century-old historical photo)
+- **Credit:** Harvard College Observatory
+- **License:** public domain by age (pre-1931 US publication), per GN
+- **Note:** a Wikimedia Commons copy of this same photograph (`File:Astronomer_Edward_Charles_Pickering's_Harvard_computers.jpg`) identifies the women pictured as Williamina Fleming (center) and Antonia Maury, and explicitly states Henrietta Swan Leavitt and Annie Jump Cannon are NOT in this particular frame, despite the "Harvard Computers" group generally being associated with Leavitt. Caption this photo accordingly - don't claim it shows Leavitt.
+
+## leavitt_portrait.jpg
+- **Title:** Henrietta Swan Leavitt, American astronomer, portrait photo
+- **Source:** extracted directly from GN's own prior talk deck, `~/Dropbox/work/Presentations/GenSci/Narayan_KalerLecture_StaerkelPlanetarium.pdf`, p.13 (GN already holds citation/permission for this image; century-old historical photo - Leavitt died 1921)
+- **Credit:** author unknown; a matching copy is held by the Library of Congress and Wikimedia Commons, originally published in Popular Astronomy, v. 30, no. 4 (April 1922)
+- **License:** public domain by age (pre-1931 US publication), per GN

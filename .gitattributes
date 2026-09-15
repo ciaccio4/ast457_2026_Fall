@@ -2,3 +2,6 @@
 *.ipynb diff=ipynb
 # pre-rendered on purpose: students browse the plots on GitHub without running
 lecture/01/matplotlib_demo.ipynb -filter
+
+# student submissions keep their outputs; stripping them just makes git status noisy
+submissions/**/*.ipynb -filter
